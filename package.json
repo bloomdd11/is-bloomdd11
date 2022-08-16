@@ -1,0 +1,19 @@
+{
+  "name": "is-bloomdd11",
+  "version": "1.0.0",
+  "description": "check is it bloomdd11",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaunghtet466/is-bloomdd11.git"
+  },
+  "author": "bloomdd11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaunghtet466/is-bloomdd11/issues"
+  },
+  "homepage": "https://github.com/kaunghtet466/is-bloomdd11#readme"
+}
